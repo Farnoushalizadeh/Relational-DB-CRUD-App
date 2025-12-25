@@ -1,4 +1,10 @@
 <?php
+/**
+ * Project: University Management System
+ * Author: Farnoush Alizadeh
+ * Major: Data Analysis, University of Messina (UniMe)
+ * Technical Track: Data Analytics Infrastructure
+ */
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
