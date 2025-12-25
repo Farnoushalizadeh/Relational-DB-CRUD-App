@@ -33,3 +33,12 @@ The system is built on a normalized relational schema including:
 2. Import the `university_db.sql` file into your local MySQL server.
 3. Update `DB.php` with your local database credentials.
 4. Run via a local server (XAMPP/WAMP).
+## 👤 Author
+**Farnoush Alizadeh**
+*3rd-year Data Analysis Student at the University of Messina (UniMe)*
+[LinkedIn Profile]https://www.linkedin.com/in/parmis-alizadeh-9961b6373/| [GitHub Profile] github.com/me50/Farnoushalizadeh
+
+
+
+
+
